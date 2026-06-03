@@ -13,8 +13,8 @@ El enfoque integra un flujo completo de ciencia de datos, desde el análisis exp
 
 ## Colaboradores
 
-- Cristian Linero
-- David Márquez
+- Cristian Camilo Linero Cantillo (https://github.com/cristianclc)
+- David Ricardo Marquez Luna (https://github.com/DAVIDML2005)
 
 ## Dataset
 
